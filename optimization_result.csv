@@ -1,0 +1,2 @@
+diameter_m,diameter_inches,pitch_ratio,kt,kq,efficiency,blade_count,material,recommended_material,propeller_type,cavitation_risk,similar_vessel,match_quality,source,notes
+0.48,18.897599999999997,1.4,0.138,0.038,0.685,3,stainless,stainless_steel,Surface piercing,Medium,racing_yacht,Good,CSV Database,Racing configuration
